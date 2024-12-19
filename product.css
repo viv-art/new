@@ -800,6 +800,10 @@ body {
     padding-bottom: 30px;
 }
 
+.third {
+    overflow-y: scroll;
+}
+
 @media screen and (max-width: 1112px) {
 
     .img1,
@@ -2115,4 +2119,3 @@ body {
 
 
 }
-
